@@ -1,7 +1,7 @@
 # Spaces SDK for Android
 This library allows you to integrate Spaces into your Android app.
 
-Learn more about the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at https://developers.spacesnet.com/docs/android4
+Learn more about the provided samples, documentation, integrating the SDK into your app, accessing source code, and more at https://developers.spacesnet.com/docs/android
 
 ## Features
 * Login
